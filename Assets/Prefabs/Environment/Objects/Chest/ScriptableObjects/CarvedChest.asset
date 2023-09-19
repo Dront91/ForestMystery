@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b15fc2c5efa30448b9aa1e4bd2c5800, type: 3}
+  m_Name: CarvedChest
+  m_EditorClassIdentifier: 
+  _rarity: 2
+  _sprite: {fileID: 21300000, guid: 7bc49132e5fed47499e0904a0f990a53, type: 3}
+  _chestRarity: 2
+  _dropList:
+  - {fileID: 650625902128792807, guid: baaec1133df0bc242a4130a4f53cd08b, type: 3}
+  - {fileID: 650625902128792807, guid: 4ce675ad79a75374794dad462e458414, type: 3}
+  - {fileID: 650625902128792807, guid: e21687b10460fbd4aa6518707e6ed37a, type: 3}
+  - {fileID: 650625902128792807, guid: 6429273d60ee5e440ba1cb0e6220e34f, type: 3}
+  - {fileID: -5413720767524008122, guid: c80ac6b7b87627f4d91bcc8ba62a70ee, type: 3}
+  - {fileID: -5413720767524008122, guid: 536528e5bf6a2924f9c17c916d91c969, type: 3}
+  - {fileID: -5413720767524008122, guid: fe218918eefe3cc489d0b4ebe6d44ec3, type: 3}
+  - {fileID: -5413720767524008122, guid: 087de7bdba1a66d46b7d9aef04fb44b6, type: 3}
+  - {fileID: -5413720767524008122, guid: 4d2d58cee524d2f4aa5872e78710a0c2, type: 3}
+  - {fileID: -5413720767524008122, guid: 9474a9293ac265947a292cd896dd90de, type: 3}
+  - {fileID: -5413720767524008122, guid: c8e3005ae75afb242828c5f66c96ca37, type: 3}
+  - {fileID: -5413720767524008122, guid: f899ad7a2e3654644904918cea0c29fa, type: 3}
+  - {fileID: -5413720767524008122, guid: a7dc55f96b436ad44a69675d3ab26b8c, type: 3}
+  - {fileID: -5413720767524008122, guid: 7d9cc4618590a0c4594b59f2c1ebf6cb, type: 3}
+  - {fileID: 2774992280188469770, guid: eea997181f5b0b14f912d4ac0c131c26, type: 3}
+  - {fileID: 2615620444206577149, guid: d5e75a89ef3144d4888521015e49a792, type: 3}
+  - {fileID: 2615620444206577149, guid: 29c0a755b1a25de41ba50799ff353cff, type: 3}
+  - {fileID: 2615620444206577149, guid: f2776d17a5127a845bfca9002d6258d5, type: 3}
+  - {fileID: 2774992280188469770, guid: 863a70a3f10f6614087e54d978b23cc4, type: 3}
+  - {fileID: 2774992280188469770, guid: a9520e0701083b342b9d8b4cfecc49a9, type: 3}
+  ChestCapacity: 80

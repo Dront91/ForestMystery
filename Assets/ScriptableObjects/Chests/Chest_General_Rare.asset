@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b15fc2c5efa30448b9aa1e4bd2c5800, type: 3}
+  m_Name: Chest_General_Rare
+  m_EditorClassIdentifier: 
+  _rarity: 2
+  _sprite: {fileID: 0}
+  _dropChance: 0.35
+  _entities:
+  - {fileID: 11400000, guid: b885cad556b3eae4c902fff95c7fdbf1, type: 2}
+  - {fileID: 11400000, guid: 5241253fc32e95d4cb9fd115e52f3be8, type: 2}
+  - {fileID: 11400000, guid: b2bc32808df7d7b4492c81939f915062, type: 2}
+  - {fileID: 11400000, guid: 90a3246cb7508fc4ca8def47d96fcacf, type: 2}

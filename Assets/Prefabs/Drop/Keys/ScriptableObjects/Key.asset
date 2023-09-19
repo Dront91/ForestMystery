@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5263f05170b7e2d4eb8df238a04798de, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  _rarity: 0
+  _sprite: {fileID: 21300000, guid: ed8935c922aa0b046a9c58196cc97293, type: 3}
+  DropChanceFromMole: 0.5
+  DropChanceFromSquirrel: 0.8
+  DropChanceFromHedgehog: 0.6
+  DropChanceFromHornet: 0.2
+  DropChanceFromRabbit: 0.9
+  DropChanceFromHive: 0.05
+  DropChanceFromSnakeBoss: 1

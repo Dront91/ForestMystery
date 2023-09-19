@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ae4c993c58d89c479bdd3d90271f1b3, type: 3}
+  m_Name: ItemsGearWheel
+  m_EditorClassIdentifier: 
+  _rarity: 0
+  _sprite: {fileID: 21300000, guid: bdb3647b0b65fe845ac3c348afb8407b, type: 3}
+  DropChanceFromCommonChest: 0.5
+  DropChanceFromUmcommonChest: 0.6
+  DropChanceFromRareChest: 0.4
+  DropChanceFromEpicChest: 0.2
+  DropChanceFromLegendaryChest: 0
+  ItemValue: 40
+  _maxHealthIncrease: 0
+  _damageIncrease: 0
+  _attackRangeIncrease: 0

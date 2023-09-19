@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ce304eab5f91b949821a3197939dbaa, type: 3}
+  m_Name: BlastBomb
+  m_EditorClassIdentifier: 
+  _rarity: 0
+  _sprite: {fileID: 21300000, guid: aa8a81e83980d1d488c0942ea580dea1, type: 3}
+  DropChanceFromCommonChest: 0
+  DropChanceFromUmcommonChest: 0.8
+  DropChanceFromRareChest: 0.6
+  DropChanceFromEpicChest: 0.5
+  DropChanceFromLegendaryChest: 0.2
+  ItemValue: 65
+  _maxDamage: 0.5
+  _minDamage: 0.25
+  _explosionRadius: 2
+  _explosionTimer: 3
+  _pushForce: 0
+  _explosionVisualEffect: {fileID: 0}
+  _bombProjectile: {fileID: 1975010682175578084, guid: 05508828e477d6047a6ae510ef30e7c3, type: 3}

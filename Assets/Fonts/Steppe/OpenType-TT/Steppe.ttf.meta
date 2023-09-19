@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b5bc45557d0508849aa33d657157dfdc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Steppe
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 15506edae2fcbcf42995402bc744f02e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

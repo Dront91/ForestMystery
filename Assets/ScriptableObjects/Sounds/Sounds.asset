@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a5b1ea64a8f624d97db3ad09ff8f26, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  m_Sounds:
+  - _soundName: GrassBiomAmbient
+    _clip: {fileID: 8300000, guid: daf73df4c300fa84280fb98a09a5375f, type: 3}
+    _mixerGroup: {fileID: -4031004592776375173, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: AllEnemyDead
+    _clip: {fileID: 8300000, guid: 49841e24ff50da9448d019ebdc237ecc, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: MenuBackGroundMusic
+    _clip: {fileID: 8300000, guid: 4dbf4f0d6dd56fb4f9c0de4ce62fc0f0, type: 3}
+    _mixerGroup: {fileID: -4031004592776375173, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: BattleBackGroundMusic
+    _clip: {fileID: 8300000, guid: 298a32a080c5d0f419335de40eae07cb, type: 3}
+    _mixerGroup: {fileID: -4031004592776375173, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: FriendlyBackGroundMusic
+    _clip: {fileID: 8300000, guid: 470708441eb52bc408c162dc8ae1bcc8, type: 3}
+    _mixerGroup: {fileID: -4031004592776375173, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: StoryModeBackGroundMusic
+    _clip: {fileID: 8300000, guid: ec2b0e6556f2dbe4a861996cf68e4f4d, type: 3}
+    _mixerGroup: {fileID: -4031004592776375173, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerResiveDamage
+    _clip: {fileID: 8300000, guid: 5d8bda7d54e82a04f8a955e5757807f6, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerSteps
+    _clip: {fileID: 8300000, guid: 4211822dd7fc4da4d93a6b7641724f94, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerItemPickUp
+    _clip: {fileID: 8300000, guid: 2b29446dbe1c46444835b928413a3279, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerPotionUse
+    _clip: {fileID: 8300000, guid: 5d60e713b41824d4ab5cec746488b048, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerThrowBomb
+    _clip: {fileID: 8300000, guid: ff3ac0bc1e23e234fbada4021d2a8153, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerAttackWithoutWeapon
+    _clip: {fileID: 8300000, guid: 7f8e5112e7b3d8048bb641cf303d5500, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerAttackSword
+    _clip: {fileID: 8300000, guid: 57f108054ed8d6b4283a7087df3bcb49, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerAttackWand
+    _clip: {fileID: 8300000, guid: 57f108054ed8d6b4283a7087df3bcb49, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerAttackSlingshot
+    _clip: {fileID: 8300000, guid: c3d1cda4123702847bca32d07ef2a98d, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: PlayerAttackBow
+    _clip: {fileID: 8300000, guid: 257112028b0eaf74ca3dc18996b376a7, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: HornetDamageResive
+    _clip: {fileID: 8300000, guid: 77ec9b79b6ecb3f478896566bcf71d74, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: HornetFly
+    _clip: {fileID: 8300000, guid: b8f23b1bc554dad49874d733e4404014, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SquirrelDamageTaken
+    _clip: {fileID: 8300000, guid: 77ec9b79b6ecb3f478896566bcf71d74, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SquirrelThrowCone
+    _clip: {fileID: 8300000, guid: cd694d40fd6896347bd609d81dd4f738, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: HedgehogDamageResive
+    _clip: {fileID: 8300000, guid: c9b226ceb3597e14abad90f080c70b17, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: HedgehogStun
+    _clip: {fileID: 8300000, guid: b3738f64a2a48bd4cbbcb4875b1c0e2e, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: HedgehogCrash
+    _clip: {fileID: 8300000, guid: edb6fe8e2c5af9b479ee8c09577d6b03, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: HedgehogRoll
+    _clip: {fileID: 8300000, guid: 108118147a59fb34bba7c953a62bb3ed, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: HedgehogRush
+    _clip: {fileID: 8300000, guid: fb730ee616b1c684180732934521324b, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: StumpChestOpen
+    _clip: {fileID: 8300000, guid: 8d946f07744af1d45813a3beaee5627d, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: KeyUse
+    _clip: {fileID: 8300000, guid: 6a6abd59e2c50784a885891b53f2c946, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: WinScreenSound
+    _clip: {fileID: 8300000, guid: 52ad29ddd2e1dbf428400d0549bdca1f, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: LoseScreenSound
+    _clip: {fileID: 8300000, guid: 3b89a06f2edfaef4f990fd2e39e22074, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: MineBombExplosion
+    _clip: {fileID: 8300000, guid: aaa6aa521ed99d64baac9d8f4c28c1eb, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: CoctailBombExplosion
+    _clip: {fileID: 8300000, guid: 06364bf76c9dc8d4780016dafceab9ac, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: BlastBombExplosion
+    _clip: {fileID: 8300000, guid: 5fe7d0a6c4b55b7408913dc090359834, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: MenuButtonClicked
+    _clip: {fileID: 8300000, guid: 53a7c02b9763df641a8b7a5fce5e257a, type: 3}
+    _mixerGroup: {fileID: 534848162959373306, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SnakeShoot
+    _clip: {fileID: 8300000, guid: eb681e2dfb266e947b8044347d86908c, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SnakeJump
+    _clip: {fileID: 8300000, guid: 071e48b372c2f96439d93dc01e61fc8b, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SnakeRushPrepare
+    _clip: {fileID: 8300000, guid: d15df8322ee14244b968c83d1a780f18, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SnakeMeleeAttack
+    _clip: {fileID: 8300000, guid: fd3e260c6cf7f8d4394025d9de058e6b, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SnakeDamageResive
+    _clip: {fileID: 8300000, guid: 1674663c950cdea4c8e6a855b88d0910, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SnakeProjectileHit
+    _clip: {fileID: 8300000, guid: 104332525753c4c449352865e76f3d2b, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SnakeDead
+    _clip: {fileID: 8300000, guid: fdf2ceed442aeca428b7076bf5f741bb, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: SnakeLanding
+    _clip: {fileID: 8300000, guid: a7db243525a032345b44c3a0d2bb0aed, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: OwlFly
+    _clip: {fileID: 8300000, guid: 7673c08b897703545a834b341b0ba22b, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
+  - _soundName: ArrowSound
+    _clip: {fileID: 8300000, guid: be60e0528a6ad074b8b86f88d5003984, type: 3}
+    _mixerGroup: {fileID: 4417232755386443438, guid: 159ee64911c1a2a44a2f3eb5f9a77970, type: 2}
